@@ -1,5 +1,5 @@
 # PowerShell-Scripts
-A collection of useful PowerShell Scripts that I have written and use.
+A collection of useful PowerShell scripts that I have written and use.
 
 
 # Create URL Shortcuts (GUI)
